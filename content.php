@@ -18,16 +18,16 @@ background-color:#ffcc00;
 
 
 <ol>
-<li><a href="white.html" target="content">Jay-R page </a></li><br>
-<li><a href="blue.html" target="content">Wilson page</a></li><br>
-<li><a href="green.html" target="content">Benben page</a></li><br>
-<li><a href="gray.html" target="content">Mc Kevent Page</a></li><br>
-<li><a href="lightgray.html" target="content">Albino page</a></li><br>
-<li><a href="tomato.html" target="content">John Benedict Page</a></li><br>
-<li><a href="dodgerblue.html" target="content">Micheal Page</a></li><br>
-<li><a href="violet.html" target="content">Nexon Page</a></li><br>
-<li><a href="crimson.html" target="content">Aljun Page</a></li><br>
-<li><a href="mediumseagreen.html" target="content">Hernel Page</a></li>
+<li><a href="white.php" target="content">Jay-R page </a></li><br>
+<li><a href="blue.php" target="content">Wilson page</a></li><br>
+<li><a href="green.php" target="content">Benben page</a></li><br>
+<li><a href="gray.php" target="content">Mc Kevent Page</a></li><br>
+<li><a href="lightgray.php" target="content">Albino page</a></li><br>
+<li><a href="tomato.php" target="content">John Benedict Page</a></li><br>
+<li><a href="dodgerblue.php" target="content">Micheal Page</a></li><br>
+<li><a href="violet.php" target="content">Nexon Page</a></li><br>
+<li><a href="crimson.php" target="content">Aljun Page</a></li><br>
+<li><a href="mediumseagreen.php" target="content">Hernel Page</a></li>
 
 </ol>
 
