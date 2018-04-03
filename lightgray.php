@@ -20,7 +20,7 @@ background-color:lightgray;
 <p><b>AGE:</b><u>19</u></p>
 <p><b>SEX:</b><u>Male</u></p>
 <p><b>ADDRESS:</b><u>St. Josepg Village Tunghaan Minglanilla Cebu</u></p>
-<p> <a href="content.html" target="content"> back to the original</a>
+<p> <a href="content.php" target="content"> back to the original</a>
 </p>
 </body> 
 </html>
