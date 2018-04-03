@@ -15,8 +15,8 @@ background-color:#a08029;
 <h2>MENU</h2>
 
 <p>
-<a href="menu-1.html" target="menu">Minglanilla</a>
-| <a href="menu-2.html" target="menu">City of Naga</a>
+<a href="menu-1.php" target="menu">Minglanilla</a>
+| <a href="menu-2.php" target="menu">City of Naga</a>
 </p>
 </body> 
 </html>
