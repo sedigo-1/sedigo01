@@ -12,7 +12,7 @@ background-color:#ff9900;
 </style>
 </head>
 <body>
-<h3>Friends List</h3>
+<h3>Friend Lists</h3>
 <ul>
 
 <li><p><a href="lightgray.php" target="content">Albino page</a></p>
