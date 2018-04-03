@@ -12,7 +12,7 @@ background-color:#7FFF00;
 </style>
 </head>
 <body>
-<h3>Friends List</h3>
+<h3>Friend Lists</h3>
 <ul>
 <li><p><a href="white.php" target="content">Jay-R Page</a></p>
 <li><p><a href="blue.php" target="content">Wilson Page</a></p>
